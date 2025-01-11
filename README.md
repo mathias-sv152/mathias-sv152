@@ -68,6 +68,6 @@
 
 <div align="center">
   <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img src="https://github.com/user-attachments/assets/e4f92294-d8ab-4432-8804-985d8220cb4f"
        alt="snake" /></a>
 </div>
