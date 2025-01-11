@@ -1,6 +1,7 @@
 ![Mathias Banner](https://your-image-url-here.com/banner.png)
 
-👋Hey there! I'm Mathias</h2>
+
+<h2 align="left">👋 Hey there! I'm Mathias</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias -->
 
