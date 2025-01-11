@@ -9,9 +9,6 @@
 
 👨‍💻 &nbsp;I am currently working at Hackmetrix as a Full Stack Developer.<br>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at [Your University].<br>
-🌱 &nbsp;I'm on track for learning more about TypeScript, JavaScript, PHP, Next.js, Nest.js, React, Astro, Flutter, and Dart.<br>
-📝 &nbsp;In my free time, I enjoy creating virtual classrooms, Discord bots with AI, and apps for reading mangas.<br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 ✉️ &nbsp;You can shoot me an email at mathias@hackmetrix.com! I'll try to respond as soon as I can.<br>
 📝 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mathias-sv/) and [GitHub](https://github.com/mathias-sv152) profiles for more details about me. I'm open to feedback and suggestions!
