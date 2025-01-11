@@ -1,6 +1,6 @@
 ![Mathias Banner](https://your-image-url-here.com/banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Mathias</h2>
+👋Hey there! I'm Mathias</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Mathias -->
 
