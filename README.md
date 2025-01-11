@@ -41,12 +41,6 @@
 - Watching Anime
 - Going to the Gym
 
-### 📢 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mathias-sv/"><img src="https://img.shields.io/badge/-Mathias%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mathias@hackmetrix.com"><img src="https://img.shields.io/badge/-Mathias%20Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ### 🐍 &nbsp;That's How Commits move ...
 
@@ -55,3 +49,10 @@
   <img src="https://github.com/user-attachments/assets/e4f92294-d8ab-4432-8804-985d8220cb4f"
        alt="snake" /></a>
 </div>
+
+### 📢 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mathias-sv/"><img src="https://img.shields.io/badge/-Mathias%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mathias@hackmetrix.com"><img src="https://img.shields.io/badge/-Mathias%20Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
