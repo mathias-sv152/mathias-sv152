@@ -26,6 +26,7 @@
 ![Astro](https://img.shields.io/badge/astro-%23FF5C01.svg?style=for-the-badge&logo=astro&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 
 ### 📛 &nbsp;Databases
 
@@ -45,21 +46,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mathias-sv/"><img src="https://img.shields.io/badge/-Mathias%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mathias@hackmetrix.com"><img src="https://img.shields.io/badge/-Mathias%20Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-### 🧹 &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/mathias-sv152">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mathias-sv152&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/mathias-sv152">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mathias-sv152&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-sv152&theme=dark&hide_border=true"/>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
