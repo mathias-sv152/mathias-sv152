@@ -1,4 +1,4 @@
-![Mathias Banner](https://your-image-url-here.com/banner.png)
+![Mathias Banner](https://github.com/user-attachments/assets/bfaea9cb-f4de-4651-993c-6440f12a9569)
 
 
 <h2 align="left">👋 Hey there! I'm Mathias</h2>
